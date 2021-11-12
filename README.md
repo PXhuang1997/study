@@ -1,2 +1,2 @@
 # study
-this is a study repository
+this is a study repository for me
